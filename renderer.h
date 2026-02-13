@@ -1,0 +1,1 @@
+#ifndef RENDERER_H\n#define RENDERER_H\n\nclass Renderer {\npublic:\n    // Initializes the renderer\n    void init();\n    // Renders a frame\n    void render();\n    // Cleans up resources\n    void cleanup();\n};\n\n#endif // RENDERER_H
